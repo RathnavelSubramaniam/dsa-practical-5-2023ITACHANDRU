@@ -10,7 +10,7 @@ public class LinkedList {
                                                             }
                                                                 }
 
-                                                                    Node head = null;
+                                                                   Node head = null;
                                                                         Node tail = null;
 
                                                                             public void addNode(int data) {
